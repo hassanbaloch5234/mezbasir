@@ -1,0 +1,118 @@
+
+/* contact----------------------- */
+.flex-contact-main-container {
+    background-color: #C8DBDF;
+    width: 100%;
+    height: 100%;
+    padding-top: 140px;
+
+}
+
+.contact-clm {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-clm h1 {
+    color: #54BE73;
+    margin-bottom: 50px;
+}
+
+.container-clm-contact p {
+    color: #54be74;
+}
+
+.container-clm-contact a {
+
+    color: white;
+}
+
+.flex-contact {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+
+.flex-find-us {
+    display: flex;
+    width: 100px;
+    justify-content: space-between;
+}
+
+.transparen-btn-green {
+    background-color: transparent;
+    border: 0;
+    color: #54BE73;
+    width: 100px;
+    margin-top: 50px;
+    border-bottom: 2px solid #54BE73;
+    align-items: center;
+    display: flex;
+    transition: all ease-in .3s;
+}
+
+.transparen-btn-green i {
+    padding: 10px;
+    font-size: 25px;
+}
+
+.transparen-btn-green i:hover {
+    margin-left: 10px;
+}
+
+.form-label {
+    color: #54BE73;
+}
+
+.form-control {
+    background-color: transparent;
+    border: 0;
+
+}
+
+.input-col {
+    margin: 20px 10px;
+}
+
+input[type="text"]::placeholder {
+    color: white;
+    background-color: transparent;
+}
+
+input[type="text"]:focus {
+    color: white;
+    background-color: transparent;
+    outline: transparent;
+    border-bottom: 2px solid #54BE73;
+    color: #54BE73;
+}
+
+input[type="text"]:checked {
+    color: white;
+    background-color: transparent;
+    outline: none;
+    border-bottom: 2px solid #54BE73;
+    color: #54BE73;
+}
+
+
+input[type="email"]::placeholder {
+    color: white;
+    background-color: transparent;
+    outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* contact----------------------- */
+
+
